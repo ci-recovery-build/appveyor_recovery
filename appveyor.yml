@@ -1,0 +1,4 @@
+image:
+  - Ubuntu
+build_script:
+    - build/docker/build.sh
